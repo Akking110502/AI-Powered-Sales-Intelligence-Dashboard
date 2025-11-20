@@ -142,7 +142,4 @@ AI Analyst Roles
 Junior Data Scientist Roles
 
 
-📧 Contact
-Akash Yadav
-Aspiring Data Analyst
-Tools: Python • SQL • Tableau • Power BI • AI Tools
+
